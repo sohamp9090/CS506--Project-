@@ -1,5 +1,8 @@
 # CS506--Project-
 
+## October Check-In
+October Check-In: NBA Player Minutes Progress: https://docs.google.com/document/d/1s_vCJfFcIOPAsAH_dFO2ndsAnFkz3KMHSbSXBPvNcHE/edit?usp=sharing
+
 Project Proposal: Predicting NBA Players Minutes Played 
 
 1. Project Description
